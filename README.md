@@ -1,6 +1,6 @@
 Título e descrição do projeto
 
-° Colheita Seletiva: É um separador de resíduos projetado para organizar um motoado de lixo misturado, em lixo orgânico, plástico e papel.
+° Coleta Seletiva: É um separador de resíduos projetado para organizar um motoado de lixo misturado, em lixo orgânico, plástico e papel.
 
 Autores
 
@@ -26,4 +26,4 @@ Refências
 
 ° a) https://panda.ime.usp.br/panda/static/pythonds_pt/05-OrdenacaoBusca/OMergeSort.html
 
-b) a maior parte do projeto foi baseado no slide lista encadeada da professora.
+b) a maior parte do projeto foi baseado no GitHub lista encadeada duplamente da professora Geovana Ramos. https://github.com/GeovanaRamos/ed-cic-2023-2/blob/main/4_lista_encadeada_duplamente.py 
