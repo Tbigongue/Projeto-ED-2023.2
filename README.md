@@ -26,4 +26,4 @@ Refências
 
 ° a) https://panda.ime.usp.br/panda/static/pythonds_pt/05-OrdenacaoBusca/OMergeSort.html
 
-b) a maior parte do projeto foi baseado no GitHub lista encadeada duplamente da professora Geovana Ramos. https://github.com/GeovanaRamos/ed-cic-2023-2/blob/main/4_lista_encadeada_duplamente.py 
+b) a maior parte do projeto foi baseado no GitHub lista encadeada duplamente da professora Geovana Ramos. https://github.com/GeovanaRamos/ed-cic-2023-2/blob/main/4_lista_encadeada_duplamente.py  
