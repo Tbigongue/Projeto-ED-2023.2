@@ -246,7 +246,7 @@ def Separação():
         elif i % 2 == 0:
             LixoPar.JogaPar(i)
 
-        elif i % 2 == 1:
+        elif i % 2 != 0:
             LixoImpar.JogaImpar(i)
 
 
@@ -331,35 +331,3 @@ while BT != 'FIM':
 
     BT = input()
 
-#"""TESTES"""
-'''Caminhao.inserir_final(1)
-Caminhao.inserir_final(2)
-Caminhao.inserir_final(3)
-Caminhao.inserir_inicio(0)
-Caminhao.inserir_meio(2, 1.5)
-Caminhao.inserir_final(4)
-Caminhao.inserir_final(5)
-Caminhao.inserir_final(6)
-Caminhao.inserir_final(7)
-Caminhao.inserir_final(8)
-Caminhao.inserir_final(9)
-Caminhao.inserir_final(10)
-Caminhao.inserir_final(11)
-Caminhao.inserir_final(12)
-Caminhao.inserir_final(13)
-Caminhao.inserir_final(15)
-Caminhao.inserir_final(21)
-
-
-
-Caminhao.travessia()
-
-print("separador")
-LixoPar.travessia()
-print("separador")
-LixoImpar.travessia()
-print("separador")
-LixoPrimo.travessia()
-print("separador")
-print(Seletiva)
-'''
